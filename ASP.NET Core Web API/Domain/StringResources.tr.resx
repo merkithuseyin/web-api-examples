@@ -1,0 +1,29 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Connection_String_Is_Empty" xml:space="preserve">
+        <value>Bağlantı dizisi boş</value>
+    </data>
+    <data name="Exiting_Application" xml:space="preserve">
+        <value>Uygulamadan çıkılıyor...</value>
+    </data>
+    <data name="Id_Can_Not_Be_Non_Positive_Number" xml:space="preserve">
+        <value>Id pozitif olmayan sayı olamaz</value>
+    </data>
+    <data name="Name_Can_Not_Be_Empty" xml:space="preserve">
+        <value>Name boş olamaz</value>
+    </data>
+    <data name="Value_Can_Not_Be_Empty" xml:space="preserve">
+        <value>Value boş olamaz</value>
+    </data>
+</root>
